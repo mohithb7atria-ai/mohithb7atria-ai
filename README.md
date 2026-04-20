@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a first-year Computer Science Engineering student with a  strong interest in programming,web  development,and emerging technologies like AI.I am a quick learner who enjoys building practical projects and continuously improving my technical skills.I am eager  to  gain hands-on experience and grow in the field of computer science.
+I am a first-year  Computer Science Engineering student with a  strong interest in programming,web  development,and emerging technologies like AI.I am a quick learner who enjoys building practical projects and continuously improving my technical skills.I am eager  to  gain hands-on experience and grow in the field of computer science.
 
 
 ## 🌐 Socials:
