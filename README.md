@@ -1,5 +1,6 @@
 # 💫 About Me:
 I am a first-year Computer Science Engineering student with a strong interest in programming,web development,and emerging technologies like AI.I am a quick learner who enjoys building practical projects and continuously improving my technical skills.I am eager to gain hands-on experience and grow in the field of computer science.
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohith.2_0_0_8) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohith b) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Mohith B) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohithb7.jam.gdg.atria@gmail.com) 
 
